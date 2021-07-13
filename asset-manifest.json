@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dhanorkarsagar/reacttest/static/css/main.a617e044.chunk.css",
+    "main.js": "/dhanorkarsagar/reacttest/static/js/main.95814eaf.chunk.js",
+    "main.js.map": "/dhanorkarsagar/reacttest/static/js/main.95814eaf.chunk.js.map",
+    "runtime-main.js": "/dhanorkarsagar/reacttest/static/js/runtime-main.881b2446.js",
+    "runtime-main.js.map": "/dhanorkarsagar/reacttest/static/js/runtime-main.881b2446.js.map",
+    "static/css/2.4be38407.chunk.css": "/dhanorkarsagar/reacttest/static/css/2.4be38407.chunk.css",
+    "static/js/2.277ce98d.chunk.js": "/dhanorkarsagar/reacttest/static/js/2.277ce98d.chunk.js",
+    "static/js/2.277ce98d.chunk.js.map": "/dhanorkarsagar/reacttest/static/js/2.277ce98d.chunk.js.map",
+    "static/js/3.80db3d1c.chunk.js": "/dhanorkarsagar/reacttest/static/js/3.80db3d1c.chunk.js",
+    "static/js/3.80db3d1c.chunk.js.map": "/dhanorkarsagar/reacttest/static/js/3.80db3d1c.chunk.js.map",
+    "index.html": "/dhanorkarsagar/reacttest/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/dhanorkarsagar/reacttest/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/dhanorkarsagar/reacttest/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.277ce98d.chunk.js.LICENSE.txt": "/dhanorkarsagar/reacttest/static/js/2.277ce98d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881b2446.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.277ce98d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.95814eaf.chunk.js"
+  ]
+}
